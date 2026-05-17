@@ -1,0 +1,13 @@
+Sample Predictions
+
+Text: "My refund is still pending."
+Predicted Sentiment: negative
+
+Text: "Thank you for your quick response."
+Predicted Sentiment: positive
+
+Text: "I need help with my account login."
+Predicted Sentiment: neutral
+
+Text: "The service quality was excellent."
+Predicted Sentiment: positive

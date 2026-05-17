@@ -45,17 +45,14 @@ The dataset contains customer support messages categorized into sentiment classe
 
 ```text
 part-3-nlp-sequence-modeling/
-
+│
 ├── README.md
 ├── notebook.ipynb
 ├── requirements.txt
-├── data/
-│   ├── customer_support_text_classification.csv
-│   └── data_dictionary.md
 └── results/
-    ├── sentiment_distribution.png
-    ├── confusion_matrix.png
-    └── accuracy_curve.png
+    ├── model_evaluation.png or .csv
+    └── sample_predictions.txt
+
 ```
 
 ---
